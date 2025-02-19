@@ -7,3 +7,6 @@ nginx
 squidfunk/mkdocs-material
 zerotier/zerotier
 linuxserver/syncthing
+library/mysql:latest
+justsong/one-api
+mintplexlabs/anythingllm
