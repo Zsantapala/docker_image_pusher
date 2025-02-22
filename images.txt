@@ -10,5 +10,6 @@
 #library/mysql:latest
 #justsong/one-api
 #mintplexlabs/anythingllm
-portainer/portainer
-portainer/agent
+#portainer/portainer
+#portainer/agent
+portainer/portainer-ce
