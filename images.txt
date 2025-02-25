@@ -12,4 +12,5 @@
 #mintplexlabs/anythingllm
 #portainer/portainer
 #portainer/agent
-portainer/portainer-ce
+#portainer/portainer-ce
+portainer/portainer:linux-amd64-2.0.1
