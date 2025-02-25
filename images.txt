@@ -13,4 +13,4 @@
 #portainer/portainer
 #portainer/agent
 #portainer/portainer-ce
---platform=linux/arm64 portainer/portainer:linux-amd64-2.0.1
+--platform=linux/arm64 portainer/portainer
