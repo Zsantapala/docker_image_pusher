@@ -13,4 +13,6 @@
 #portainer/portainer
 #portainer/agent
 #portainer/portainer-ce
---platform=linux/arm64 portainer/portainer
+#--platform=linux/arm64 portainer/portainer
+minio/minio
+
