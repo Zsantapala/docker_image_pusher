@@ -15,4 +15,5 @@
 #portainer/portainer-ce
 #--platform=linux/arm64 portainer/portainer
 #minio/minio
---platform=linux/arm64 minio/minio
+#--platform=linux/arm64 minio/minio
+minio/minio:RELEASE.2023-10-25T06-33-25Z
